@@ -1,0 +1,16 @@
+{
+  "name": "cyber_22bcp115",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000y\u0000b\u0000e\u0000r\u00002\u00002\u0000B\u0000C\u0000P\u00001\u00001\u00005\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
